@@ -1,5 +1,5 @@
 
-# Newsmonk
+# Portal Berita
  A Reactjs web App to get daily news including categories.
  
 ## Acknowledgements
@@ -10,7 +10,7 @@
 
 ## Authors
 
-- [@0Pixel0](https://www.github.com/0Pixel0)
+- Rades
 
 
 ## Contributing
@@ -36,13 +36,13 @@ Contributions are always welcome!
 Clone the project
 
 ```bash
-  git clone https://github.com/0Pixel0/news-monk
+  git clone https://github.com/radescode/portal-berita
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd portal-berita
 ```
 
 Install dependencies
@@ -61,8 +61,6 @@ Start the server
 ## Deployment
 
 Project cant be deployed due to API constraints.
-## Support
 
-For support, email ashutoshpunia690@gmail.com
 
 
