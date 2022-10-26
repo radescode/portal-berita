@@ -28,7 +28,7 @@ Contributions are always welcome!
 
 ## Screenshots
 
-![App Screenshot](https://github.com/0Pixel0/news-monk/blob/master/public/Screenshot%202022-03-20%20at%205.21.11%20PM.png)
+
 
 
 ## Run Locally
